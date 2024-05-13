@@ -16,6 +16,9 @@ function MainNav() {
                             <Link className="nav-link" to="/Memory">Memory</Link>
                         </li>
                         <li className="nav-item">
+                            <Link className="nav-link" to="/Shoter">Shoter</Link>
+                        </li>
+                        <li className="nav-item">
                             <Link className="nav-link" to="/Contact">Contacto</Link>
                         </li>
                     </ul>
